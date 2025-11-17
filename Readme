@@ -1,0 +1,15 @@
+Tugas Laravel Framework 
+Diberikan deskripsi database mysql berikut ini: 
+
+Buatlah dalam modul kontak dengan ketentuan sbb: 
+a) Memakai fungsi migration dan seed. 
+b) Memakai fungsi routing dan MVC 
+c) Memakai web form dan validasi html5 
+d) Memakai keamanan anti sql injection 
+e) Memakai keamanan htmlentities 
+f) Memakai keamanan anti xss 
+
+Kumpulkan dalam bentuk:  
+- File laravel yang dikompresi menggunakan rar dengan format: nim_TW13.rar  
+- Laporan yang berisikan SS dari ketentuan a s/d f beserta penjelasan dengan format : 
+nim_TW13.pdf 
